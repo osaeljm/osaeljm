@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @osaeljm
 - 👀 I’m interested in DevOPS, security and code.
-- 🌱 I’m currently learning python, ansible and GCP
+- 🌱 I’m currently learning python, ansible.
 - 💞️ I’m looking to collaborate on learning and start up projects
 - 📫 How to reach me @OsaelJM or email osael.jimenez@protonmail.com
 
